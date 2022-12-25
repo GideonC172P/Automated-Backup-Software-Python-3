@@ -1,8 +1,8 @@
 # Automated-Backup-Software-Python-3
 
-This software is an executable written in Python and subsequently compiled with PyInstaller.
 
-The program itself (all of which works from the command-line interface) once the executable is used.
+
+The program itself (all of which works from the command-line interface) once the script (Py-File) is run.
 
 Allows the user to select one source folder (default (D:/everything)
 
